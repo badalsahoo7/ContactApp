@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="emailaddress">EmailAddress</string>
+    <string name="phoneno">PhoneNo</string>
+    <string name="enter_first_name">Enter first Name</string>
+    <string name="postaladdress">PostalAddress</string>
+    <string name="enter_last_name">Enter last Name</string>
+    <string name="button">Button</string>
+</resources>
